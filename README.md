@@ -1,5 +1,4 @@
 
-**
 # 💎 Ubel: Premium Real-Time Auction App
 
 A production-ready, high-end auction marketplace built with **Flutter** and **Supabase**. Ubel demonstrates enterprise-level architecture, real-time data synchronization, and a luxury-focused Material 3 design system.
